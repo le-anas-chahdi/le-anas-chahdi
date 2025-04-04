@@ -59,15 +59,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anaschahdi&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaschahdi&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
----
-
 ## 🤝 Contact
 
 📫 contact.anaschahdi@gmail.com  
